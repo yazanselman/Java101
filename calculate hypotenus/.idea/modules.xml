@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../body mass index/body mass index.iml" filepath="$PROJECT_DIR$/../body mass index/body mass index.iml" />
       <module fileurl="file://$PROJECT_DIR$/calculate hypotenus.iml" filepath="$PROJECT_DIR$/calculate hypotenus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../calculating grade/calculating grade.iml" filepath="$PROJECT_DIR$/../calculating grade/calculating grade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../calculating vat/calculating vat.iml" filepath="$PROJECT_DIR$/../calculating vat/calculating vat.iml" />
     </modules>
   </component>
 </project>
