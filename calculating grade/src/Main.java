@@ -34,7 +34,7 @@ public class Main {
 
         double sonuc = toplam / 6;
 
-        System.out.println(sonuc);
+        System.out.println("Ortalama notunuz : " + sonuc);
 
     }
 }
