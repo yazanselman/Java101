@@ -35,6 +35,8 @@ public class Main {
         double sonuc = toplam / 6;
 
         System.out.println("Ortalama notunuz : " + sonuc);
+        System.out.println(sonuc<60 ? "Sınıfta Kaldı" : "Sınıfı geçti");
+
 
     }
 }
