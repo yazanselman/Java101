@@ -6,6 +6,9 @@
       <module fileurl="file://$PROJECT_DIR$/calculate hypotenus.iml" filepath="$PROJECT_DIR$/calculate hypotenus.iml" />
       <module fileurl="file://$PROJECT_DIR$/../calculating grade/calculating grade.iml" filepath="$PROJECT_DIR$/../calculating grade/calculating grade.iml" />
       <module fileurl="file://$PROJECT_DIR$/../calculating vat/calculating vat.iml" filepath="$PROJECT_DIR$/../calculating vat/calculating vat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../circle area and perimeter/circle area and perimeter.iml" filepath="$PROJECT_DIR$/../circle area and perimeter/circle area and perimeter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../grocery store/grocery store.iml" filepath="$PROJECT_DIR$/../grocery store/grocery store.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../taximeter/taximeter.iml" filepath="$PROJECT_DIR$/../taximeter/taximeter.iml" />
     </modules>
   </component>
 </project>
