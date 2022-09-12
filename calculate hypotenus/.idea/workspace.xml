@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3dcc4b63-6346-484c-bbfd-4e43dfa6ce43" name="Changes" comment="body mass">
-      <change beforePath="$PROJECT_DIR$/../grocery store/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../grocery store/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculator/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculator/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculator/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculator/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,20 +20,23 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2EdD4175dUbgixttf43eqFH2a4g" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/selmanyazan/Documents/Java101/calculate hypotenus&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/selmanyazan/Documents/Java101/calculate hypotenus"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -40,7 +47,7 @@
       <updated>1662916378376</updated>
       <workItem from="1662916379448" duration="3000" />
       <workItem from="1662917804336" duration="996000" />
-      <workItem from="1662995383623" duration="2883000" />
+      <workItem from="1662995383623" duration="4388000" />
     </task>
     <task id="LOCAL-00001" summary="add comment">
       <created>1662918371442</created>
@@ -91,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662998842610</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="body mass">
+      <created>1662999182500</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1662999182500</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,6 +123,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="add comment" />
     <MESSAGE value="vat" />
     <MESSAGE value="hypotenus" />
