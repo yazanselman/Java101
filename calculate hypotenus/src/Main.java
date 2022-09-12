@@ -15,5 +15,15 @@ public class Main {
         System.out.println("hipotenüs uzunluğu : " + c);
 
 
+        double t;
+        double u;
+        double z;
+        t = (a+b+c);
+        u = t/2;
+        System.out.println("Üçgenin çevresi : " + t);
+
+        z = Math.sqrt(u*(u - a) * (u - b) * (u - c)) ;
+        System.out.println("Üçgenin alanı : " + z);
+
     }
 }
