@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3dcc4b63-6346-484c-bbfd-4e43dfa6ce43" name="Changes" comment="taximeter">
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../body mass index/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../body mass index/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="3dcc4b63-6346-484c-bbfd-4e43dfa6ce43" name="Changes" comment="body mass">
+      <change beforePath="$PROJECT_DIR$/../grocery store/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../grocery store/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +40,7 @@
       <updated>1662916378376</updated>
       <workItem from="1662916379448" duration="3000" />
       <workItem from="1662917804336" duration="996000" />
-      <workItem from="1662995383623" duration="2560000" />
+      <workItem from="1662995383623" duration="2883000" />
     </task>
     <task id="LOCAL-00001" summary="add comment">
       <created>1662918371442</created>
@@ -87,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662998254365</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="body mass">
+      <created>1662998842610</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1662998842610</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,6 +113,7 @@
     <MESSAGE value="vat" />
     <MESSAGE value="hypotenus" />
     <MESSAGE value="taximeter" />
-    <option name="LAST_COMMIT_MESSAGE" value="taximeter" />
+    <MESSAGE value="body mass" />
+    <option name="LAST_COMMIT_MESSAGE" value="body mass" />
   </component>
 </project>
